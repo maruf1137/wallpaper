@@ -18,7 +18,7 @@
 
 	$('.slider-active').owlCarousel({
 		loop: true,
-		margin: 0,
+		margin: 5,
 
 		nav: false,
 		responsive: {
